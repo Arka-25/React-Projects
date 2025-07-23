@@ -1,0 +1,76 @@
+.Parentdiv{
+     width: 99vw;
+     height: 80vh;
+     background-color: blueviolet;
+     display: flex;
+     gap:15vw;
+     align-items: center;
+    
+.card{
+    height:50vh;
+    width: 20vw;
+    background-color: red;
+    margin: 13vh 0vw 0vh 13vh;
+    align-items: center;
+    justify-content: center;
+}
+.img2{
+    height:15vh;
+    width:20vw;
+    border-radius: 10px;
+}
+.heading{
+    text-align: center;
+}
+.para{
+    text-align: center;
+}
+.button1{
+    border:2px solid;
+    background-color: aliceblue;
+    margin:2vh 0vw 0vh 6vw;
+}
+.card1{
+    height: 54vh;
+    width: 20vw;
+    background-color:rgb(223, 234, 20);
+    margin:13vh 0vw 0vh 0vw;
+}
+.img3{
+    height:20vh;
+    width:20vw;
+    border-radius: 10px;
+}
+.heading1{
+    text-align: center;
+}
+.para1{
+    text-align: center;
+}
+.button2{
+    border: 2px solid;
+    background-color: aliceblue;
+    margin:2vh 0vw 0vh 6.5vw;
+}
+.card2{
+    height:52vh;
+    width: 20vw;
+    background-color: rgb(80, 222, 14);
+    margin:14vh 0vh 0vh 0vh;
+}
+.img4{
+    width:20vw;
+    height:16vh;
+    border-radius: 10px;
+}
+.heading3{
+    text-align: center;
+}
+.para3{
+    text-align: center;
+}
+.Button4{
+    border: 2px solid;
+    margin:2vh 0vw 0vh 7vw;
+}
+}
